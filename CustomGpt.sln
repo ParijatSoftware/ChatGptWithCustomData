@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomGpt.Web", "CustomGpt\CustomGpt.Web.csproj", "{F75BAD3C-282B-4312-8FA8-59E5B7F4EDBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomGpt.Web", "CustomGpt.Web\CustomGpt.Web.csproj", "{F75BAD3C-282B-4312-8FA8-59E5B7F4EDBE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataUploader", "DataUploader\DataUploader.csproj", "{B27E1009-2E74-4A2E-9582-E978F9EB6975}"
 EndProject
