@@ -12,5 +12,5 @@ AI sample application to chat with custom data using vector search and OpenAI Em
 
 # TODO
 - Adding support for Supabase vector and Postgres DB with pgVector
-- Maybe using different embedding logic than OpenAI
+- Maybe use a different embedding logic than OpenAI API
 - Code refactor
