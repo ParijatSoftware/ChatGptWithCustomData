@@ -1,5 +1,5 @@
 # CustomGpt
-AI sample application to chat with custom data using vector search and OpenAI Embedding
+.NET Core sample application to chat with custom data using OpenAI APIs (Embedding and ChatCompletion)
 
 # Database used:
 - SingleStore as a vector DB to store embeddings
